@@ -1,2 +1,3 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TwystO?cardType=level&theme=github-dark&fontFamily=Mona%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://streak-stats.demolab.com?user=TwystO&theme=github-dark-dimmed)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/twysto?cardType=level&fontFamily=Arial&showIcons=false&preferLogin=false&Background=24292F&Text=ADBAC7&Title=539BF5&Border=3D444D&Ring=539BF5&borderRadius=4&width=496)](https://git.io/awesome-stats-card)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=twysto&theme=github-dark-blue&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=446&background=24292F&border=3D444D&stroke=3D444D&ring=539BF5&fire=539BF5&currStreakNum=ADBAC7&sideNums=ADBAC7&currStreakLabel=539BF5&sideLabels=539BF5&dates=ADBAC7)](https://git.io/streak-stats)
